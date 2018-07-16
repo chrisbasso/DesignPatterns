@@ -1,4 +1,4 @@
-package Builder;
+package Builder.ConstructorDocumentacion;
 
 public class ConstructorDocumentacionHTML extends ConstructorDocumentacion {
 
